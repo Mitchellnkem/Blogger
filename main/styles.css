@@ -22,13 +22,14 @@ body, h1, h2, h3, p, ul, li, figure {
   
   .logo img {
 	max-width: 100%;
+	max-height: 100%;
   }
   
-  .nav-links {
+  .nav-links { 
 	list-style: none;
 	display: flex;
   }
-  
+
   .nav-links li {
 	margin-right: 20px;
   }
